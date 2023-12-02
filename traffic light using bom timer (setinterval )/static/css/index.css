@@ -1,0 +1,35 @@
+body{
+    height: 200vh;
+}
+
+.up{
+    display: none;
+    height: 3vh;
+    width: 2vw;
+    background-color: coral;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.box{
+    width: 150px;
+    height: 150px;
+    border-radius: 50% ;
+    background-color: coral;
+    margin: 0 auto;
+
+}
+.box1{
+    background-color: red;
+
+}
+
+.box2{
+    background-color: yellow;
+    
+}
+.box3{
+    background-color: green;
+}
